@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 🌱 Estoy actualmente aprendiendo fundamentos y lógica de programación. ♠
 
 <!--
