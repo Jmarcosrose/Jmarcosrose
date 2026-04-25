@@ -1,5 +1,6 @@
 # Hi there 👋
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
+</br>
 Pero antes estoy inmerso en el curso de Git/GitHub para poder avanzar de buena forma en el curso.
 
 <!--
