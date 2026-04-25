@@ -1,5 +1,6 @@
 # Hi there 👋
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
+Pero antes estoy inmerso en el curso de Git/GitHub para poder avanzar de buena forma en el curso.
 
 <!--
 **Jmarcosrose/Jmarcosrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
