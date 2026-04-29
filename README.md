@@ -7,7 +7,8 @@
 </br>
       Pero antes estoy inmerso en el curso de Git/GitHub para poder avanzar de buena forma en el curso.
 <hr>
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" alt="C Badge"> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge">
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" alt="C Badge">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge">
 <!--
 **Jmarcosrose/Jmarcosrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
