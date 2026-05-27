@@ -7,12 +7,13 @@
 </br>
       Pero antes estoy inmerso en el curso de Git/GitHub para poder avanzar de buena forma en el curso.
 <hr>
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" alt="C Badge">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge">
+## Lenguajes en los que he incursionado un poco:
+* <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" alt="C Badge">
+* <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge">
 
-![C#: Code](https://img.shields.io/badge/C%23-Code-blueviolet?style=for-the-badge&labelColor=00FF00)
+* ![C#: Code](https://img.shields.io/badge/C%23-Code-blueviolet?style=for-the-badge&labelColor=00FF00)
 
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+* ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 <!--
 **Jmarcosrose/Jmarcosrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
