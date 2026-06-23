@@ -9,8 +9,8 @@
 <hr>
 ## Lenguajes en los que he incursionado un poco:
 </br>
-* ![C: C](https://img.shields.io/badge/C-C-brightgreen)
-* ![C++: Code](https://img.shields.io/badge/C%2B%2B-Code-brightgreen)
+* ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
+* ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic)
 
 * ![C#: Code](https://img.shields.io/badge/C%23-Code-blueviolet?style=for-the-badge&labelColor=00FF00)
 
