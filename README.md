@@ -7,6 +7,8 @@
 </br>
       Pero antes estoy inmerso en el curso de Git/GitHub para poder avanzar de buena forma en el curso.
 <hr>
+      Sigo incursionando en C y C# para lograr el objetivo de empezar en el mundo del Desarrollo de software.
+<hr>
 ## Lenguajes en los que he incursionado un poco:
 </br>
 * <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic" alt="C Badge">
