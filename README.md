@@ -5,7 +5,8 @@
 
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
 </br>
-      Pero antes estoy inmerso en el curso de Git/GitHub para poder avanzar de buena forma en el curso.
+      Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para
+      poder lograr el objetivo de ser un buen usuariode Git/GitHub.
 <hr>
       Sigo incursionando en C y C# para lograr el objetivo de empezar en el mundo del Desarrollo de software.
 <hr>
