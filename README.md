@@ -12,7 +12,7 @@
 <hr>
 ## Lenguajes en los que he incursionado un poco:
 </br>
-* ![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/02a8d25e659f2f06c47112ec3699a55b41ddad72/C_Logo.png)
+![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/02a8d25e659f2f06c47112ec3699a55b41ddad72/C_Logo.png)
 * <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic" alt="C++ Badge">
 
 * ![C#: Code](https://img.shields.io/badge/C%23-Code-blueviolet?style=for-the-badge&labelColor=00FF00)
