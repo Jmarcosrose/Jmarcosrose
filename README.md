@@ -14,7 +14,7 @@
 
 ## Lenguajes en los que he incursionado un poco:
 </br>
-
+* [![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/49b6b81b0fb5bf86fefd4a12f791890d4f030635/C_Logo.png)]
 
 * <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic" alt="C++ Badge">
 
