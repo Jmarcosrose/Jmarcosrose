@@ -3,6 +3,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
+
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
 </br>
       Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para
@@ -13,7 +14,7 @@
 
 ## Lenguajes en los que he incursionado un poco:
 </br>
-* [![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/c26aa8880e9e4bdb48a968ba0b85c81dc589630a/C_Logo.png)](https://img.shields.io/badge/-C-lightblue)
+
 
 * <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic" alt="C++ Badge">
 
