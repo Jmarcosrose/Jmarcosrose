@@ -9,6 +9,7 @@
       poder lograr el objetivo de ser un buen usuariode Git/GitHub.
 <hr>
       Sigo incursionando en C y C# para lograr el objetivo de comnezar en el mundo del Desarrollo de software.
+![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/c26aa8880e9e4bdb48a968ba0b85c81dc589630a/C_Logo.png)
 
 ## Lenguajes en los que he incursionado un poco:
 </br>
