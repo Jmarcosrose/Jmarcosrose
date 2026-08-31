@@ -8,8 +8,8 @@
       Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para
       poder lograr el objetivo de ser un buen usuariode Git/GitHub.
 <hr>
-      Sigo incursionando en C y C# para lograr el objetivo de empezar en el mundo del Desarrollo de software.
-<hr>
+      Sigo incursionando en C y C# para lograr el objetivo de comnezar en el mundo del Desarrollo de software.
+
 ## Lenguajes en los que he incursionado un poco:
 </br>
 
