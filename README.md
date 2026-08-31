@@ -3,7 +3,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
-[![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/880f6ba2cb01bb76c2780e3aa3e043d5bbaa8391/C_Logo.jpg)]
+![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/880f6ba2cb01bb76c2780e3aa3e043d5bbaa8391/C_Logo.jpg)
 
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
 </br>
