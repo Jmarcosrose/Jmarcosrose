@@ -6,8 +6,8 @@
 ## Lenguajes en los que he incursionado un poco:
 
 Programming C 
-![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/880f6ba2cb01bb76c2780e3aa3e043d5bbaa8391/C_Logo.jpg)
-
+![image alt](https://github.com/Jmar cosrose/Jmarcosrose/blob/880f6ba2cb01bb76c2780e3aa3e043d5bbaa8391/C_Logo.jpg)
+Programming C# 
 ![Logo_C#](https://github.com/Jmarcosrose/Jmarcosrose/blob/63e55799c919be0c746a6c9407c3b83821fe8d91/C%23_Logo.jpg)
 
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
