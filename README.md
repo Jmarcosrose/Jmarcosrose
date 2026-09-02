@@ -16,10 +16,9 @@ Programming C++
 
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
 </br>
-      Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para
-      poder lograr el objetivo de ser un buen usuariode Git/GitHub.
+      Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
 <hr>
-      Sigo incursionando en C y C# para lograr el objetivo de comnezar en el mundo del Desarrollo de software.
+      Sigo incursionando en C y C# para lograr el objetivo de comenzar en el mundo del Desarrollo de software.
 
 
 
