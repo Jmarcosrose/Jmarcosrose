@@ -3,6 +3,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
+## Lenguajes en los que he incursionado un poco:
+
 Programming C 
 ![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/880f6ba2cb01bb76c2780e3aa3e043d5bbaa8391/C_Logo.jpg)
 
@@ -14,7 +16,7 @@ Programming C
       Sigo incursionando en C y C# para lograr el objetivo de comnezar en el mundo del Desarrollo de software.
 
 
-## Lenguajes en los que he incursionado un poco:
+
 </br>
 
 
