@@ -11,6 +11,9 @@ Programming C
 Programming C# 
 ![Logo_C#](https://github.com/Jmarcosrose/Jmarcosrose/blob/63e55799c919be0c746a6c9407c3b83821fe8d91/C%23_Logo.jpg)
 
+Programming C++ 
+![Logo_C++](https://github.com/Jmarcosrose/Jmarcosrose/blob/53bb528dc3bf107ff947741d8e2c8691514378b4/C%2B%2B_Logo.jpg)
+
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
 </br>
       Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para
