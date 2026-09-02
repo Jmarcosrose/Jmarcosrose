@@ -8,6 +8,8 @@
 Programming C 
 ![image alt](https://github.com/Jmarcosrose/Jmarcosrose/blob/880f6ba2cb01bb76c2780e3aa3e043d5bbaa8391/C_Logo.jpg)
 
+![Logo_C#](https://github.com/Jmarcosrose/Jmarcosrose/blob/63e55799c919be0c746a6c9407c3b83821fe8d91/C%23_Logo.jpg)
+
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
 </br>
       Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para
