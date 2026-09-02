@@ -16,7 +16,7 @@ Programming C
 
 ## Lenguajes en los que he incursionado un poco:
 </br>
-* ![Logo_C](https://github.com/Jmarcosrose/Jmarcosrose/blob/050db2e19051566647c5ebed2fd825230ce6dd71/C_Logo.jpg)
+
 
 * <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=plastic" alt="C++ Badge">
 
