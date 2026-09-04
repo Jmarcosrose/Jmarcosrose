@@ -20,7 +20,9 @@ Programming
 Programming 
 ![Logo_JS](https://github.com/Jmarcosrose/Jmarcosrose/blob/2992e8f405fc841f46d2273426ad92d090e8ef29/Logo_JS.jpg)
 
-🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
+🌱 **He terminado el curso Fundamentos y Lógica de Programación.** ♠
+      Curso estudiado con el gran MoureDev.
+
 </br>
       Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
 <hr>
