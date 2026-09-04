@@ -17,6 +17,9 @@ Programming C++
 Programming 
 ![Logo_Java](https://github.com/Jmarcosrose/Jmarcosrose/blob/98e46b5a41a527319623d89fbf53cc569dbff9b8/Logo_Java.jpg)
 
+Programming 
+![Logo_JS](https://github.com/Jmarcosrose/Jmarcosrose/blob/2992e8f405fc841f46d2273426ad92d090e8ef29/Logo_JS.jpg)
+
 🌱 **Estoy actualmente aprendiendo fundamentos y lógica de programación.** ♠
 </br>
       Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
