@@ -20,6 +20,7 @@ Programming
 Programming 
 ![Logo_JS](https://github.com/Jmarcosrose/Jmarcosrose/blob/2992e8f405fc841f46d2273426ad92d090e8ef29/Logo_JS.jpg)
 
+<hr>
 🌱 **He terminado el curso Fundamentos y Lógica de Programación.** ♠
       Curso estudiado con el gran MoureDev.
 
@@ -27,9 +28,6 @@ Programming
       Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso. Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
 <hr>
       Sigo incursionando en C y C# para lograr el objetivo de comenzar en el mundo del Desarrollo de software.
-
-
-
 </br>
 
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
