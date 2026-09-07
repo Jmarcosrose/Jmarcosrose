@@ -1,9 +1,11 @@
 # Hi there 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 
-![OctoCat](https://github.com/Jmarcosrose/Jmarcosrose/blob/abf43782c1ff89d604af7bfde8d1b8fd92b42f7b/Logo_Octocat1.jpg)
+![OctoGitHun](https://github.com/Jmarcosrose/Jmarcosrose/blob/b7189e6e299f5fc5085240d6ef1c22f4455d6a30/Logo_GitHub1.jpg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+
+![OctoCat](https://github.com/Jmarcosrose/Jmarcosrose/blob/abf43782c1ff89d604af7bfde8d1b8fd92b42f7b/Logo_Octocat1.jpg)
 
 ## Lenguajes en los que he incursionado un poco:
 
