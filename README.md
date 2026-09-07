@@ -26,7 +26,7 @@ Programming
 
 
 *He terminado el curso Fundamentos y Lógica de Programación.* ♠
- </br>     Curso estudiado con el gran MoureDev.
+ </br>     **Curso estudiado con el gran MoureDev.**
 
 </br>
       Ya terminé el curso de Git/GitHub para poder avanzar de buena forma en el curso (también con MoureDev). Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
