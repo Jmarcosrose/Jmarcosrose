@@ -25,7 +25,7 @@ Programming
 ![Logo_JS](https://github.com/Jmarcosrose/Jmarcosrose/blob/2992e8f405fc841f46d2273426ad92d090e8ef29/Logo_JS.jpg)
 
 
-| *He terminado el curso Fundamentos y Lógica de Programación.* ♠ |
+*He terminado el curso Fundamentos y Lógica de Programación.* ♠
 | **Curso estudiado con el gran MoureDev.** |
 
 </br>
