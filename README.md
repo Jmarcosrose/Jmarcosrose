@@ -9,7 +9,7 @@
 
 ![OctoCat](https://github.com/Jmarcosrose/Jmarcosrose/blob/abf43782c1ff89d604af7bfde8d1b8fd92b42f7b/Logo_Octocat1.jpg)
 
-## Lenguajes en los que he incursionado un poco:
+### Lenguajes en los que he incursionado un poco:
 
 Programming C 
 ![Logo_C](https://github.com/Jmarcosrose/Jmarcosrose/blob/880f6ba2cb01bb76c2780e3aa3e043d5bbaa8391/C_Logo.jpg)
