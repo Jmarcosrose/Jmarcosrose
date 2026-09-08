@@ -35,6 +35,8 @@ Programming
 </br>
 
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
+
+![Logo png](https://github.com/Jmarcosrose/Jmarcosrose/blob/d5776bacfcd346d8d5d1ad9205c1dac6bd6686bd/Logo_GitHub.png)
 <!--
 **Jmarcosrose/Jmarcosrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
