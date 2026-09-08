@@ -29,11 +29,10 @@ Programming
 > 
 >> **Curso estudiado con el gran MoureDev.**
 
-</br>
 > Ya terminé también el curso de Git/GitHub para poder avanzar de buena forma en el curso (también con MoureDev). Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
 >
 >> *Sigo incursionando en C y C# para lograr el objetivo de comenzar en el mundo del Desarrollo de software.*
-</br>
+
 
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 
