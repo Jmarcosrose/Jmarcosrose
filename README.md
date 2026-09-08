@@ -25,8 +25,8 @@ Programming
 ![Logo_JS](https://github.com/Jmarcosrose/Jmarcosrose/blob/2992e8f405fc841f46d2273426ad92d090e8ef29/Logo_JS.jpg)
 
 
-*He terminado el curso Fundamentos y Lógica de Programación.* ♠
- </br>     **Curso estudiado con el gran MoureDev.**
+| *He terminado el curso Fundamentos y Lógica de Programación.* ♠ |
+| **Curso estudiado con el gran MoureDev.** |
 
 </br>
       Ya terminé también el curso de Git/GitHub para poder avanzar de buena forma en el curso (también con MoureDev). Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
