@@ -31,12 +31,12 @@ Programming
 </br>
       Ya terminé también el curso de Git/GitHub para poder avanzar de buena forma en el curso (también con MoureDev). Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
 
-      ***Sigo incursionando en C y C# para lograr el objetivo de comenzar en el mundo del Desarrollo de software.***
+*Sigo incursionando en C y C# para lograr el objetivo de comenzar en el mundo del Desarrollo de software.*
 </br>
 
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 
-![Logo png](https://github.com/Jmarcosrose/Jmarcosrose/blob/d5776bacfcd346d8d5d1ad9205c1dac6bd6686bd/Logo_GitHub.png)
+
 <!--
 **Jmarcosrose/Jmarcosrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
