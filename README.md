@@ -26,13 +26,6 @@ Programming
 Programming 
 ![Logo_JS](https://github.com/Jmarcosrose/Jmarcosrose/blob/2992e8f405fc841f46d2273426ad92d090e8ef29/Logo_JS.jpg)
 
-## Lenguajes y plataformas para desarrollar
-| Lenguaje | Acción |
-| -------- | ------ |
-|  Python  | Desarrollo Web |
-| JavaScript | Desarrollo Web |
-
-
 > *He terminado el curso Fundamentos y Lógica de Programación.* ♠
 > 
 >> **Curso estudiado con el gran MoureDev.**
@@ -42,6 +35,14 @@ Programming
 
 > *Sigo incursionando en C y C# para lograr el objetivo de comenzar en el mundo del Desarrollo de software.*
 
+## Lenguajes y plataformas para desarrollar
+| Lenguaje | Acción |
+| -------- | ------ |
+|  Python  | Desarrollo Web |
+| JavaScript | Desarrollo Web |
+| ASP.NET  | Desarrollo Web |
+|   SQL    | Manejo de bases de datos |
+| Bootstrap | Formato HTML |
 
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
 
