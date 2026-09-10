@@ -28,6 +28,7 @@ Programming
 
 ## Lenguajes y plataformas para desarrollar
 | Lenguaje | Acción |
+| -------- | ------ |
 
 
 > *He terminado el curso Fundamentos y Lógica de Programación.* ♠
