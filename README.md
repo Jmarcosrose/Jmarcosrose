@@ -29,6 +29,8 @@ Programming
 ## Lenguajes y plataformas para desarrollar
 | Lenguaje | Acción |
 | -------- | ------ |
+|  Python  | Desarrollo Web |
+| JavaScript | Desarrollo Web |
 
 
 > *He terminado el curso Fundamentos y Lógica de Programación.* ♠
