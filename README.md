@@ -30,10 +30,11 @@ Programming
 > 
 >> **Curso estudiado con el gran MoureDev.**
 
-> Ya terminé también el curso de Git/GitHub para poder avanzar de buena forma en el curso (también con MoureDev). Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
+> También he terminado el curso de Git/GitHub para poder avanzar de buena forma en el curso (también con MoureDev). Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
 >
 
-> *Sigo incursionando en C y C# para lograr el objetivo de comenzar en el mundo del Desarrollo de software.*
+> *Sigo incursionando en C (con el profesor Alberto R. R.).
+>> Y con C# (con el profesor Alam Mancera) para lograr el objetivo de comenzar en el mundo del Desarrollo de software.*
 
 ## Lenguajes y plataformas para desarrollar
 | Lenguaje | Acción |
