@@ -33,7 +33,7 @@ Programming
 > También he terminado el curso de Git/GitHub para poder avanzar de buena forma en el curso (también con MoureDev). Y sigo aprendiendo de éstas herramientas para poder lograr el objetivo de ser un buen usuario de Git/GitHub.
 >
 
-> *Sigo incursionando en C (con el profesor Alberto R. R.). ![LogoCB](https://github.com/Jmarcosrose/Jmarcosrose/blob/d21c1c5e95541106164ccaea0051f25f51d7b6df/CB_logo.jpg)
+> *Sigo incursionando en C (con el profesor Alberto R. R.). Desarrollando con ![LogoCB](https://github.com/Jmarcosrose/Jmarcosrose/blob/d21c1c5e95541106164ccaea0051f25f51d7b6df/CB_logo.jpg)
 >> Y con C# (con el profesor Alam Mancera) para lograr el objetivo de comenzar en el mundo del Desarrollo de software.*
 
 ## Lenguajes y plataformas para desarrollar
