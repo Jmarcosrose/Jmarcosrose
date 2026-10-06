@@ -17,13 +17,13 @@
 - [ ] Programming C# 
 ![Logo_C#](https://github.com/Jmarcosrose/Jmarcosrose/blob/63e55799c919be0c746a6c9407c3b83821fe8d91/C%23_Logo.jpg)
 
-Programming C++ 
+- [ ] Programming C++ 
 ![Logo_C++](https://github.com/Jmarcosrose/Jmarcosrose/blob/53bb528dc3bf107ff947741d8e2c8691514378b4/C%2B%2B_Logo.jpg)
 
-Programming 
+- [ ] Programming 
 ![Logo_Java](https://github.com/Jmarcosrose/Jmarcosrose/blob/98e46b5a41a527319623d89fbf53cc569dbff9b8/Logo_Java.jpg)
 
-Programming 
+- [ ] Programming 
 ![Logo_JS](https://github.com/Jmarcosrose/Jmarcosrose/blob/2992e8f405fc841f46d2273426ad92d090e8ef29/Logo_JS.jpg)
 
 > *He terminado el curso Fundamentos y Lógica de Programación.* ♠
