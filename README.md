@@ -40,7 +40,7 @@ Programming
 | Lenguaje | Acción |
 | -------- | ------ |
 |  Python  | Desarrollo Web |
-|   Java   | Desarrollo de Apps |
+|   Java   | Desarrollo de Apps y Web |
 | JavaScript | Desarrollo Web |
 | ASP.NET  | Desarrollo Web |
 |   SQL    | Manejo de bases de datos |
