@@ -34,7 +34,7 @@
 >
 
 >*Sigo incursionando en C (con el profesor Alberto B. R.). Desarrollando con ![LogoCB]*(https://github.com/Jmarcosrose/Jmarcosrose/blob/d21c1c5e95541106164ccaea0051f25f51d7b6df/CB_logo.jpg)
->> Y con C# (con el profesor Alam Mancera) para lograr el objetivo de comenzar en el mundo del Desarrollo de software.*
+>_Al terminar el curso de C, comienzo con el curso de C# (con el profesor Alam Mancera) para lograr el objetivo de comenzar en el mundo del Desarrollo de software._
 
 ## Lenguajes y plataformas para desarrollar
 | Lenguaje | Acción |
